@@ -6,7 +6,7 @@ Possuo experiência no desenvolvimento web, utilizando tecnologias como HTML, CS
 
 💻 Tecnologias: HTML5, CSS3, JavaScript, TypeScript, ReactJS.
 
-💼 Ferramentas: VSCode, Canva, Photoshop, Figma, Git e GitHub
+💼 Ferramentas: VSCode, Figma, Git e GitHub
 
 📚 Estudando agora: React Native
 
