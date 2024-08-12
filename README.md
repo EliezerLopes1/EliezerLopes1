@@ -2,13 +2,13 @@
 
 Olá! Eu sou o Eliézer e desde criança sou apaixonado por tecnologia em geral. Comecei no mundo da programação estudando tecnologias front-end, e atualmente estudo na Faculdade de Tecnologia de São José dos Campos e curso Técnologo em Análise e Desenvolvimento de Sistemas, com foco em programação, desenvolvimento, manutenção de sistemas e aplicação de metodologias ágeis.
 
-Possuo experiência no desenvolvimento web, utilizando tecnologias como HTML, CSS, JavaScript/TypeScript, React e ferramentas para versionamento de código, tais como Git e GitHub.
+Possuo experiência no desenvolvimento web, utilizando tecnologias como HTML, CSS, JavaScript/TypeScript, React, ReactNativeJS e ferramentas para versionamento de código, tais como Git e GitHub.
 
-💻 Tecnologias: HTML5, CSS3, JavaScript, TypeScript, ReactJS.
+💻 Tecnologias: HTML5, CSS3, JavaScript, TypeScript, ReactJS, ReactNativeJS.
 
-💼 Ferramentas: VSCode, Figma, Git e GitHub
+💼 Ferramentas: VSCode, Figma, Git e GitHub.
 
-📚 Estudando agora: React Native
+📚 Estudando agora: VueJS.
 
 <div alinhar = "centro">
  <a href="https://github.com/EliezerLopes1">
