@@ -1,14 +1,29 @@
 <h2><b>Um pouco sobre mim</b></h2>
 
-Olá! Eu sou o Eliézer e desde criança sou apaixonado por tecnologia em geral. Comecei no mundo da programação estudando tecnologias front-end, e atualmente estudo na Faculdade de Tecnologia de São José dos Campos e curso Técnologo em Análise e Desenvolvimento de Sistemas, com foco em programação, desenvolvimento, manutenção de sistemas e aplicação de metodologias ágeis.
+Olá! Eu sou **Eliézer**, apaixonado por tecnologia desde criança. Com grande interesse em programação, comecei minha jornada estudando tecnologias **front-end** e hoje sou **formado em Análise e Desenvolvimento de Sistemas**. Atualmente estou **cursando Banco de Dados** na **Faculdade de Tecnologia de São José dos Campos**.
 
-Possuo experiência no desenvolvimento web, utilizando tecnologias como HTML, CSS, JavaScript/TypeScript, React, ReactNativeJS e ferramentas para versionamento de código, tais como Git e GitHub.
+Meu foco é aprimorar minhas habilidades em **programação, desenvolvimento e manutenção de sistemas**, aplicando **metodologias ágeis** para entregar resultados eficientes. Tenho experiência em desenvolvimento web com as seguintes tecnologias:
 
-💻 Tecnologias: HTML5, CSS3, JavaScript, TypeScript, ReactJS, ReactNativeJS.
+* 💻 **Desenvolvimento Web:** HTML5, CSS3, JavaScript, TypeScript, React
+* 🔀 **Ferramentas de Versionamento:** Git, GitHub
+* 🛠️ **Tecnologias Adicionais:** Python, React Native, Langchain
+* 🎨 **Ferramentas de Trabalho:** VSCode, Canva, CorelDRAW, Figma
 
-💼 Ferramentas: VSCode, Figma, Git e GitHub.
+🚀 Estou sempre em busca de **aprender e evoluir** para criar soluções inovadoras e eficientes. **Vamos conectar e trocar ideias!**
 
-📚 Estudando agora: VueJS.
+---
+
+Hello! I’m **Eliézer**, passionate about technology since childhood. My programming journey started with **front-end** technologies, and today I hold a **degree in Systems Analysis and Development**. I’m currently pursuing a **Database program** at the **São José dos Campos Faculty of Technology**.
+
+My focus is to enhance my skills in **programming, system development and maintenance**, applying **agile methodologies** to deliver efficient results. I have experience in web development with the following technologies:
+
+* 💻 **Web Development:** HTML5, CSS3, JavaScript, TypeScript, React
+* 🔀 **Version Control Tools:** Git, GitHub
+* 🛠️ **Additional Technologies:** Python, React Native, Langchain
+* 🎨 **Work Tools:** VSCode, Canva, CorelDRAW, Figma
+
+🚀 I’m always looking to **learn and evolve** to create innovative and efficient solutions. **Let’s connect and share ideas!**
+
 
 <div alinhar = "centro">
  <a href="https://github.com/EliezerLopes1">
