@@ -9,8 +9,6 @@ Meu foco é aprimorar minhas habilidades em **programação, desenvolvimento e m
 * 🛠️ **Tecnologias Adicionais:** Python, React Native, Langchain
 * 🎨 **Ferramentas de Trabalho:** VSCode, Canva, CorelDRAW, Figma
 
-🚀 Estou sempre em busca de **aprender e evoluir** para criar soluções inovadoras e eficientes. **Vamos conectar e trocar ideias!**
-
 ---
 
 Hello! I’m **Eliézer**, passionate about technology since childhood. My programming journey started with **front-end** technologies, and today I hold a **degree in Systems Analysis and Development**. I’m currently pursuing a **Database program** at the **São José dos Campos Faculty of Technology**.
@@ -21,8 +19,6 @@ My focus is to enhance my skills in **programming, system development and mainte
 * 🔀 **Version Control Tools:** Git, GitHub
 * 🛠️ **Additional Technologies:** Python, React Native, Langchain
 * 🎨 **Work Tools:** VSCode, Canva, CorelDRAW, Figma
-
-🚀 I’m always looking to **learn and evolve** to create innovative and efficient solutions. **Let’s connect and share ideas!**
 
 
 <div alinhar = "centro">
